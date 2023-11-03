@@ -17,7 +17,6 @@ namespace TRADER.Modeles
         private string _sexe;
         private string _email;
         private int _telephone;
-
         #endregion
 
         #region Constructeur
